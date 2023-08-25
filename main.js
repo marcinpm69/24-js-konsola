@@ -1,1 +1,1 @@
-console.log(h1 = 'Uwielbiam JavaScript')
+console.log('Uwielbiam JavaScript')
